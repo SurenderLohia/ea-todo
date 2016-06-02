@@ -1,0 +1,7 @@
+{
+    "name": "eatodo",
+    "description": "Simple TODO application built with Electron and AngularJS.",
+    "version": "0.0.1",
+    "author": "Surender Lohia <surender.lohia.e@gmail.com>",
+    "main": "main.js"
+}
