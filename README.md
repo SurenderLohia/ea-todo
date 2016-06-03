@@ -1,16 +1,24 @@
-# ea-todo
+# EA-todo
 Electron Angular Todo App
 
 ### Install the dependencies ###
-```npm install```
+```
+npm install
+```
 
-```bower install```
+```
+bower install
+```
 
 ### To Run the app ###
-```npm start```
+```
+npm start
+```
 
 ### To Build (for installabel) ###
-```npm run dist```
+```
+npm run dist
+```
 
 
 
